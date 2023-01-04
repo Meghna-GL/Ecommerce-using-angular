@@ -9,12 +9,13 @@ import { SignUp } from '../data-type';
 })
 export class SellerAuthComponent {
 
-  constructor(private seller:SellerService, private router:Router){
-
+  constructor(private seller: SellerService, private router: Router) {
   }
 
-
-  signUp(data:SignUp):void{
+  ngOnInit(): void {
+    this.seller.reloadSeller()
+  }
+  signUp(data: SignUp): void {
     this.seller.userSignUp(data)
   }
 }
