@@ -5,6 +5,18 @@
       "email": "meghna@gmail.com",
       "password": "abc@123",
       "id": 1
+    },
+    {
+      "name": "Meghna",
+      "password": "meghna123",
+      "email": "meghna@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Daizy",
+      "password": "daizy@123",
+      "email": "daizy@gmail.com",
+      "id": 3
     }
   ]
 }
