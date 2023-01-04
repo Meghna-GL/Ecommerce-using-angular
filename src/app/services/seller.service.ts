@@ -1,13 +1,13 @@
-import { Injectable } from '@angular/core';
+// import { Injectable } from '@angular/core';
+// import {HttpClient} from '@angular/common/http'
+// @Injectable({
+//   providedIn: 'root'
+// })
+// export class SellerService {
 
-@Injectable({
-  providedIn: 'root'
-})
-export class SellerService {
+//   constructor(private http:HttpClient) { }
 
-  constructor() { }
-
-  userSignUp(){
-    console.warn("service called")
-  }
-}
+//   userSignUp(data:any){
+//     return this.http.post()
+//   }
+// }

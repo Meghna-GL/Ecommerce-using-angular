@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { SellerService } from '../services/seller.service';
+//import { SellerService } from '../services/seller.service';
 
 @Component({
   selector: 'app-seller-auth',
@@ -8,13 +8,13 @@ import { SellerService } from '../services/seller.service';
 })
 export class SellerAuthComponent {
 
-  constructor(private seller:SellerService){
+  // constructor(private seller:SellerService){
 
-  }
+  // }
 
 
   signUp(data:object):void{
     console.warn(data)
-    this.seller.userSignUp(); 
+    //this.seller.userSignUp(); 
   }
 }
