@@ -13,3 +13,10 @@
 - Make seller Home Page
 - Make interface for API data
 - Check complete flow
+
+## SETUP JSON-SERVER
+
+- Why do we need json server
+- Set up json server
+- Install postman
+- Make first API
