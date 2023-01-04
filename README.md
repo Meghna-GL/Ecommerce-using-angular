@@ -20,3 +20,10 @@
 - Set up json server
 - Install postman
 - Make first API
+
+## AUTH GUARD FOR SELLER
+
+- Make auth guard
+- Apply guard on seller route?
+- Add data in LocalStorage?
+- Add Auth guard on Page Refresh?

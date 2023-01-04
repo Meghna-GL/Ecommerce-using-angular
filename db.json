@@ -8,15 +8,9 @@
     },
     {
       "name": "Meghna",
-      "password": "meghna123",
-      "email": "meghna@gmail.com",
+      "password": "meghna123456",
+      "email": "meghna123@gmail.com",
       "id": 2
-    },
-    {
-      "name": "Daizy",
-      "password": "daizy@123",
-      "email": "daizy@gmail.com",
-      "id": 3
     }
   ]
 }
