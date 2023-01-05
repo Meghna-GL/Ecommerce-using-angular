@@ -27,3 +27,10 @@
 - Apply guard on seller route?
 - Add data in LocalStorage?
 - Add Auth guard on Page Refresh?
+
+## SELLER LOGIN FORM
+
+- Make Login form 
+- Make function fir get login form value
+- Link for toggle login and signup
+- Check complete flow
